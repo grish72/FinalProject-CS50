@@ -2,6 +2,8 @@
 
 ## Advanced Calculator
 
+### Video Demo: [https://youtu.be/GhEMIRBZZ-s](https://youtu.be/GhEMIRBZZ-s?si=DMlw7_SguFtSMZ5i)
+
 ### Overview
 This project is an advanced calculator program written in C, designed for basic and advanced mathematical operations. It also includes special features like memory storage and recall to enhance user experience.
 
